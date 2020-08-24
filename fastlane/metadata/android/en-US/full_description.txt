@@ -16,8 +16,6 @@ App requests a permission to take photos, because flashlight is a part of the ca
 * Use it to get attention of rescue team in emergency
 * Use it to confuse somebody or something that attacks you
 
-<img src="/screenshot.png" width="300">
-
 #### Don't look straight to flashes because they will blind you for a short time! Especially with shortest pulse setting!
 
 #### Use with extreme caution near people that have epilepsy!
